@@ -430,7 +430,7 @@ Tenant.so is built with:
 
 <p align="center">
   <a href="https://tenant.so">
-    <img src="https://tenant.so/tenant-logo.svg" alt="Tenant.so" width="40" />
+    <img src="https://raw.githubusercontent.com/Tenant-so/.github/main/profile/tenant-logo.png" alt="Tenant.so" width="40" />
   </a>
   <br />
   <sub>Built by <a href="https://tenant.so">Tenant.so</a> — The Community Operating System</sub>
